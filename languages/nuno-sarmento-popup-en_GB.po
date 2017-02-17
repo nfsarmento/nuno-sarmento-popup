@@ -1,0 +1,43 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.11\n"
+"Last-Translator: \n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: en\n"
+
+#: ../includes/nuno-sarmento-services.php:51
+msgid "Settings"
+msgstr ""
+
+#: ../includes/nuno-sarmento-services.php:58
+msgid "Enable / Disabled"
+msgstr ""
+
+#: ../includes/nuno-sarmento-services.php:66
+msgid "Header text"
+msgstr ""
+
+#: ../includes/nuno-sarmento-services.php:74
+msgid "PopUp text content"
+msgstr ""
+
+#: ../includes/nuno-sarmento-services.php:82
+msgid ""
+"Timer <br> <br> Examples: <br>  2000 = 2 seconds <br> 4000 = 4 seconds <br> "
+"6000 = 5 seconds"
+msgstr ""
+
+#: ../includes/nuno-sarmento-services.php:90
+msgid "PopUp Text Colour"
+msgstr ""
+
+#: ../includes/nuno-sarmento-services.php:98
+msgid "PopUp Background Colour"
+msgstr ""

@@ -1,0 +1,51 @@
+#container {
+  max-width: 1000px;
+  margin: 0 auto;
+  background: #EEE;
+}
+#nuno-sarmento-popup-blackout {
+  display: none;
+  z-index: 499;
+  position: fixed;
+  width: 100%;
+  height: 100%;
+  top: 0;
+  left: 0;
+  background: #000;
+  opacity: 0.7;
+}
+#popup-welcome-message {
+  display: none;
+  z-index: 500;
+  position: fixed;
+  width: 50%;
+  left: 25%;
+  top: 20%;
+  padding: 40px 2%;
+  height: 50%;
+  overflow: auto;
+}
+#nuno-sarmento-popup-close {
+  position: absolute;
+  top: 10px;
+  right: 20px;
+  cursor: pointer;
+}
+#nuno-sarmento-popup-dialog h2, h1 {
+  font-size: 2em;
+  margin: 0;
+}
+#nuno-sarmento-popup-dialog p { margin: 0; }
+@media only screen and (max-width: 480px) {
+  #popup-welcome-message {
+    width: 80%;
+    left: 14%;
+    top: 22%;
+  }
+}
+@media only screen and (max-width: 768px) {
+  #popup-welcome-message {
+    width: 80%;
+    top: 30%;
+  }
+}
