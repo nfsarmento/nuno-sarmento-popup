@@ -48,19 +48,19 @@ https://twitter.com/Nuno_M_Sarmento.
 
 **Frequently Asked Questions**
 
-Q1. How to modify popup window style?
+*How to modify popup window style?
 
-Please go to NS PopUp settings and choose your favorite colors.
+*Please go to NS PopUp settings and choose your favorite colors.
 
-Q2. How to modify popup opening time?
+*How to modify popup opening time?
 
-Please go to NS PopUp settings and change the "Timer".
+*Please go to NS PopUp settings and change the "Timer".
 
-Examples:
+*Examples:
 
-2000 = 2 seconds
-4000 = 4 seconds
-6000 = 5 seconds
+* 2000 = 2 seconds
+* 4000 = 4 seconds
+* 6000 = 5 seconds
 
 
 
