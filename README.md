@@ -19,12 +19,12 @@ The cookie is set after the first time the user closes the popup, that prevents 
 
 **Current features**
 
-* Lightweight JQuery.
-* Show popup window based on timer after page load.
-* Admin editor to create the popup message.
-* Option to disabled popup.
-* Option to change popup styling.
-* Supports localization.
+* Lightweight JQuery. <br />
+* Show popup window based on timer after page load. <br />
+* Admin editor to create the popup message. <br />
+* Option to disabled popup. <br />
+* Option to change popup styling. <br />
+* Supports localization. <br />
 
 
 
@@ -39,28 +39,28 @@ https://twitter.com/Nuno_M_Sarmento.
 
 **Installation**
 
-1. Upload the plugin files to the `/wp-content/plugins/nuno-sarmento-popup` directory, or install the plugin through the WordPress plugins screen directly.
-2. Activate the plugin through the 'Plugins' screen in WordPress.
-3. Use the Settings->Plugin Name screen to configure the plugin.
+1. Upload the plugin files to the `/wp-content/plugins/nuno-sarmento-popup` directory, or install the plugin through the WordPress plugins screen directly. <br />
+2. Activate the plugin through the 'Plugins' screen in WordPress. <br />
+3. Use the Settings->Plugin Name screen to configure the plugin. <br />
 
 
 
 
 **Frequently Asked Questions**
 
-*How to modify popup window style?
+*How to modify popup window style? <br />
 
-*Please go to NS PopUp settings and choose your favorite colors.
+*Please go to NS PopUp settings and choose your favorite colors. <br />
 
-*How to modify popup opening time?
+*How to modify popup opening time? <br />
 
-*Please go to NS PopUp settings and change the "Timer".
+*Please go to NS PopUp settings and change the "Timer". <br />
 
-*Examples:
+*Examples: <br />
 
-* 2000 = 2 seconds
-* 4000 = 4 seconds
-* 6000 = 5 seconds
+* 2000 = 2 seconds <br />
+* 4000 = 4 seconds <br />
+* 6000 = 5 seconds <br />
 
 
 
