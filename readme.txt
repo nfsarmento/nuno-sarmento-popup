@@ -5,8 +5,8 @@ Plugin URI: https://www.nuno-sarmento.com
 Donate link: https://www.nuno-sarmento.com
 Tags: popup, content, page, css, responsive, admin, plugin
 Requires at least: 3.0.1
-Tested up to: 4.7.2
-Stable tag: 1.0.1
+Tested up to: 5.3
+Stable tag: 1.0.2
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 

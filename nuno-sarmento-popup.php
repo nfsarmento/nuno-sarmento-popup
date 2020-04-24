@@ -2,9 +2,9 @@
 /*
 Plugin Name: Nuno Sarmento PopUp
 Description: This plugin allows you to create lightweight popup window in your blog with custom content and custom styling. In this popup we can display any content such as Video, Image, Advertisement and much more.
-Author: Nuno Sarmento
-Version: 1.0.1
-Plugin URI: https://www.nuno-sarmento.com
+Author: Nuno Morais Sarmento
+Version: 1.0.2
+Plugin URI: https://en-gb.wordpress.org/plugins/nuno-sarmento-popup/
 Author URI: https://www.nuno-sarmento.com
 Donate link: https://www.nuno-sarmento.com
 Text Domain: nuno-sarmento-popup
@@ -13,7 +13,7 @@ License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 */
 
-defined('ABSPATH') or die('°_°’');
+defined( 'ABSPATH' ) || die( '°_°’' );
 /* ------------------------------------------
 // Constants --------------------------------
 --------------------------------------------- */
