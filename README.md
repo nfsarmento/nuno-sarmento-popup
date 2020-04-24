@@ -1,10 +1,10 @@
-# Nuno Sarmento PopUp WordPress Plugin
+#PopUp WordPress Plugin
 This plugin allows you to create lightweight popup window in your blog with custom content and custom styling.
 
 
 **Description**
 
-Nuno Sarmento PopUp is tiny jQuery plugin which uses browser cookies to show up a modal popup.
+PopUp is tiny jQuery plugin which uses browser cookies to show up a modal popup.
 
 The cookie is set after the first time the user closes the popup, that prevents the user to see the popup every time the web page refreshes.
 
@@ -53,19 +53,3 @@ The cookie is set after the first time the user closes the popup, that prevents 
 ![Other NS Plugins](https://github.com/nfsarmento/nuno-sarmento-popup/blob/master/assets/images/screenshot-3.png "Optional title")
 ![Server Report](https://github.com/nfsarmento/nuno-sarmento-popup/blob/master/assets/images/screenshot-4.png "Optional title")
 
-
-
-**Upgrade Notice**
-
-1.0.0
-First version
-
-1.0.1
-Admin panel tabs
-
-
-1.0.0
-First version
-
-1.0.1
-Admin panel tabs
