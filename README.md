@@ -9,14 +9,6 @@ Nuno Sarmento PopUp is tiny jQuery plugin which uses browser cookies to show up 
 The cookie is set after the first time the user closes the popup, that prevents the user to see the popup every time the web page refreshes.
 
 
-
-**Click to watch the plugin video**
-
-[![Nuno Sarmento PopUp WordPress Plugin](https://i.ytimg.com/vi/P-tGKurW_f8/1.jpg)](https://www.youtube.com/watch?v=P-tGKurW_f8)
-
-
-
-
 **Current features**
 
 * Lightweight JQuery. <br />
@@ -27,22 +19,11 @@ The cookie is set after the first time the user closes the popup, that prevents 
 * Supports localization. <br />
 
 
-
-**Suggestions**
-
-If you have suggestions for a new add-on, feel free to email me at nfsarmento@gmail.com .
-Or follow me on Twitter!
-https://twitter.com/Nuno_M_Sarmento.
-
-
-
-
 **Installation**
 
 1. Upload the plugin files to the `/wp-content/plugins/nuno-sarmento-popup` directory, or install the plugin through the WordPress plugins screen directly. <br />
 2. Activate the plugin through the 'Plugins' screen in WordPress. <br />
 3. Use the Settings->Plugin Name screen to configure the plugin. <br />
-
 
 
 
@@ -61,7 +42,6 @@ https://twitter.com/Nuno_M_Sarmento.
 * 2000 = 2 seconds <br />
 * 4000 = 4 seconds <br />
 * 6000 = 5 seconds <br />
-
 
 
 
